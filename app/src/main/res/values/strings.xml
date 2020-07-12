@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Netflix Cover</string>
+    <string name="elenco">Elenco: %1$s</string>
+    <string name="similar">Opções semelhantes: %1$s</string>
+</resources>
